@@ -1,0 +1,24 @@
+*{
+	color: #ffffffff;
+}
+li{
+	list-style-type: none;
+}
+ul li{
+	display: inline;
+}
+p{
+	text-align: center;
+	color: red;
+	font-family: montserrat;
+	padding-right: 640px;
+	padding-left: 640px;
+}
+a{
+	font-family: monospace;
+	font-size: 30px;
+	padding: 30px;
+}
+li{
+	list-style-type: none;
+}
